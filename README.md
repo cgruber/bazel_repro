@@ -1,2 +1,2 @@
-# bazel_skylib_repro
+# bazel_repro
 A repo to host bug/issue reproduction examples. 
